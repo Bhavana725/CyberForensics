@@ -1,0 +1,2522 @@
+[
+    {
+        "timestamp": "2025-04-01T00:18:11.586289",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:18:11.586798",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 17,
+            "service": 17,
+            "state": 2,
+            "sbytes": 51,
+            "dbytes": 42,
+            "rate": 1,
+            "source_ip": "11.12.6.26",
+            "destination_ip": "224.0.0.251",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:18:11.587165",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:18:11.587915",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:18:11.588262",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:18:11.588581",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 17,
+            "service": 17,
+            "state": 2,
+            "sbytes": 50,
+            "dbytes": 42,
+            "rate": 1,
+            "source_ip": "11.12.7.10",
+            "destination_ip": "255.255.255.255",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:18:11.588919",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 17,
+            "service": 17,
+            "state": 2,
+            "sbytes": 51,
+            "dbytes": 42,
+            "rate": 1,
+            "source_ip": "11.12.6.26",
+            "destination_ip": "224.0.0.251",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:18:11.589223",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 17,
+            "service": 17,
+            "state": 2,
+            "sbytes": 28,
+            "dbytes": 42,
+            "rate": 1,
+            "source_ip": "11.12.3.63",
+            "destination_ip": "11.12.31.255",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:18:11.589526",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 17,
+            "service": 17,
+            "state": 2,
+            "sbytes": 28,
+            "dbytes": 42,
+            "rate": 1,
+            "source_ip": "11.12.3.63",
+            "destination_ip": "11.12.31.255",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:18:11.589856",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 17,
+            "service": 17,
+            "state": 2,
+            "sbytes": 83,
+            "dbytes": 42,
+            "rate": 1,
+            "source_ip": "11.12.3.63",
+            "destination_ip": "255.255.255.255",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:20:05.353203",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 6,
+            "service": 6,
+            "state": 1,
+            "sbytes": 0,
+            "dbytes": 74,
+            "rate": 1,
+            "source_ip": "34.139.124.58",
+            "destination_ip": "11.12.23.247",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:20:05.353614",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 6,
+            "service": 6,
+            "state": 1,
+            "sbytes": 0,
+            "dbytes": 74,
+            "rate": 1,
+            "source_ip": "34.139.124.58",
+            "destination_ip": "11.12.23.247",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:20:05.353945",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 17,
+            "service": 17,
+            "state": 2,
+            "sbytes": 209,
+            "dbytes": 42,
+            "rate": 1,
+            "source_ip": "11.12.17.62",
+            "destination_ip": "224.0.0.251",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:20:05.354235",
+        "detection_type": "IDS",
+        "threat_level": "low",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Allow"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:20:05.354514",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 17,
+            "service": 17,
+            "state": 2,
+            "sbytes": 51,
+            "dbytes": 42,
+            "rate": 1,
+            "source_ip": "11.12.23.152",
+            "destination_ip": "224.0.0.251",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:20:05.354814",
+        "detection_type": "IDS",
+        "threat_level": "low",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Allow"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:20:05.355106",
+        "detection_type": "IDS",
+        "threat_level": "low",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Allow"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:20:05.355377",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 17,
+            "service": 17,
+            "state": 2,
+            "sbytes": 284,
+            "dbytes": 42,
+            "rate": 1,
+            "source_ip": "11.12.18.19",
+            "destination_ip": "224.0.0.251",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:20:05.355643",
+        "detection_type": "IDS",
+        "threat_level": "low",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Allow"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:20:05.355928",
+        "detection_type": "IDS",
+        "threat_level": "low",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Allow"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:07.011000",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 312,
+            "Subflow Fwd Bytes": 312,
+            "Bwd Packet Length Max": 312,
+            "Fwd Packet Length Mean": 312,
+            "Avg Fwd Segment Size": 312,
+            "Avg Bwd Segment Size": 312,
+            "Total Length of Fwd Packets": 312,
+            "Destination Port": 42668,
+            "source_ip": "172.19.18.4",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:07.011474",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 83,
+            "Fwd Packet Length Max": 930,
+            "Subflow Fwd Bytes": 930,
+            "Bwd Packet Length Max": 930,
+            "Fwd Packet Length Mean": 930,
+            "Avg Fwd Segment Size": 930,
+            "Avg Bwd Segment Size": 930,
+            "Total Length of Fwd Packets": 930,
+            "Destination Port": 45946,
+            "source_ip": "129.227.206.5",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:07.011855",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 402,
+            "Fwd Packet Length Max": 54,
+            "Subflow Fwd Bytes": 54,
+            "Bwd Packet Length Max": 54,
+            "Fwd Packet Length Mean": 54,
+            "Avg Fwd Segment Size": 54,
+            "Avg Bwd Segment Size": 54,
+            "Total Length of Fwd Packets": 54,
+            "Destination Port": 443,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "129.227.206.5",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:07.012205",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 402,
+            "Fwd Packet Length Max": 705,
+            "Subflow Fwd Bytes": 705,
+            "Bwd Packet Length Max": 705,
+            "Fwd Packet Length Mean": 705,
+            "Avg Fwd Segment Size": 705,
+            "Avg Bwd Segment Size": 705,
+            "Total Length of Fwd Packets": 705,
+            "Destination Port": 443,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "129.227.206.5",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:07.012542",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 402,
+            "Fwd Packet Length Max": 1259,
+            "Subflow Fwd Bytes": 1259,
+            "Bwd Packet Length Max": 1259,
+            "Fwd Packet Length Mean": 1259,
+            "Avg Fwd Segment Size": 1259,
+            "Avg Bwd Segment Size": 1259,
+            "Total Length of Fwd Packets": 1259,
+            "Destination Port": 443,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "129.227.206.5",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:07.012902",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 60,
+            "Subflow Fwd Bytes": 60,
+            "Bwd Packet Length Max": 60,
+            "Fwd Packet Length Mean": 60,
+            "Avg Fwd Segment Size": 60,
+            "Avg Bwd Segment Size": 60,
+            "Total Length of Fwd Packets": 60,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:07.013210",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 60,
+            "Subflow Fwd Bytes": 60,
+            "Bwd Packet Length Max": 60,
+            "Fwd Packet Length Mean": 60,
+            "Avg Fwd Segment Size": 60,
+            "Avg Bwd Segment Size": 60,
+            "Total Length of Fwd Packets": 60,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:07.013510",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 60,
+            "Subflow Fwd Bytes": 60,
+            "Bwd Packet Length Max": 60,
+            "Fwd Packet Length Mean": 60,
+            "Avg Fwd Segment Size": 60,
+            "Avg Bwd Segment Size": 60,
+            "Total Length of Fwd Packets": 60,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:07.013842",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 83,
+            "Fwd Packet Length Max": 54,
+            "Subflow Fwd Bytes": 54,
+            "Bwd Packet Length Max": 54,
+            "Fwd Packet Length Mean": 54,
+            "Avg Fwd Segment Size": 54,
+            "Avg Bwd Segment Size": 54,
+            "Total Length of Fwd Packets": 54,
+            "Destination Port": 45946,
+            "source_ip": "129.227.206.5",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:07.014153",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 83,
+            "Fwd Packet Length Max": 54,
+            "Subflow Fwd Bytes": 54,
+            "Bwd Packet Length Max": 54,
+            "Fwd Packet Length Mean": 54,
+            "Avg Fwd Segment Size": 54,
+            "Avg Bwd Segment Size": 54,
+            "Total Length of Fwd Packets": 54,
+            "Destination Port": 45946,
+            "source_ip": "129.227.206.5",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:53.878660",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 19,
+            "Fwd Packet Length Max": 253,
+            "Subflow Fwd Bytes": 253,
+            "Bwd Packet Length Max": 253,
+            "Fwd Packet Length Mean": 253,
+            "Avg Fwd Segment Size": 253,
+            "Avg Bwd Segment Size": 253,
+            "Total Length of Fwd Packets": 253,
+            "Destination Port": 53054,
+            "source_ip": "104.18.27.90",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:53.879113",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 19,
+            "Fwd Packet Length Max": 255,
+            "Subflow Fwd Bytes": 255,
+            "Bwd Packet Length Max": 255,
+            "Fwd Packet Length Mean": 255,
+            "Avg Fwd Segment Size": 255,
+            "Avg Bwd Segment Size": 255,
+            "Total Length of Fwd Packets": 255,
+            "Destination Port": 53054,
+            "source_ip": "104.18.27.90",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:53.879426",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 6732,
+            "Fwd Packet Length Max": 66,
+            "Subflow Fwd Bytes": 66,
+            "Bwd Packet Length Max": 66,
+            "Fwd Packet Length Mean": 66,
+            "Avg Fwd Segment Size": 66,
+            "Avg Bwd Segment Size": 66,
+            "Total Length of Fwd Packets": 66,
+            "Destination Port": 443,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "104.18.27.90",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:53.879758",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 19,
+            "Fwd Packet Length Max": 256,
+            "Subflow Fwd Bytes": 256,
+            "Bwd Packet Length Max": 256,
+            "Fwd Packet Length Mean": 256,
+            "Avg Fwd Segment Size": 256,
+            "Avg Bwd Segment Size": 256,
+            "Total Length of Fwd Packets": 256,
+            "Destination Port": 53054,
+            "source_ip": "104.18.27.90",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:53.880048",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 19,
+            "Fwd Packet Length Max": 257,
+            "Subflow Fwd Bytes": 257,
+            "Bwd Packet Length Max": 257,
+            "Fwd Packet Length Mean": 257,
+            "Avg Fwd Segment Size": 257,
+            "Avg Bwd Segment Size": 257,
+            "Total Length of Fwd Packets": 257,
+            "Destination Port": 53054,
+            "source_ip": "104.18.27.90",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:53.880327",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 6732,
+            "Fwd Packet Length Max": 66,
+            "Subflow Fwd Bytes": 66,
+            "Bwd Packet Length Max": 66,
+            "Fwd Packet Length Mean": 66,
+            "Avg Fwd Segment Size": 66,
+            "Avg Bwd Segment Size": 66,
+            "Total Length of Fwd Packets": 66,
+            "Destination Port": 443,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "104.18.27.90",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:53.880608",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:53.880911",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:53.881179",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 19,
+            "Fwd Packet Length Max": 255,
+            "Subflow Fwd Bytes": 255,
+            "Bwd Packet Length Max": 255,
+            "Fwd Packet Length Mean": 255,
+            "Avg Fwd Segment Size": 255,
+            "Avg Bwd Segment Size": 255,
+            "Total Length of Fwd Packets": 255,
+            "Destination Port": 53054,
+            "source_ip": "104.18.27.90",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:30:53.881446",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 6732,
+            "Fwd Packet Length Max": 66,
+            "Subflow Fwd Bytes": 66,
+            "Bwd Packet Length Max": 66,
+            "Fwd Packet Length Mean": 66,
+            "Avg Fwd Segment Size": 66,
+            "Avg Bwd Segment Size": 66,
+            "Total Length of Fwd Packets": 66,
+            "Destination Port": 443,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "104.18.27.90",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:39.969822",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 85,
+            "Subflow Fwd Bytes": 85,
+            "Bwd Packet Length Max": 85,
+            "Fwd Packet Length Mean": 85,
+            "Avg Fwd Segment Size": 85,
+            "Avg Bwd Segment Size": 85,
+            "Total Length of Fwd Packets": 85,
+            "Destination Port": 5353,
+            "source_ip": "11.12.3.208",
+            "destination_ip": "224.0.0.251",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:39.970360",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:39.970831",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 781,
+            "Fwd Packet Length Max": 66,
+            "Subflow Fwd Bytes": 66,
+            "Bwd Packet Length Max": 66,
+            "Fwd Packet Length Mean": 66,
+            "Avg Fwd Segment Size": 66,
+            "Avg Bwd Segment Size": 66,
+            "Total Length of Fwd Packets": 66,
+            "Destination Port": 38906,
+            "source_ip": "74.125.138.94",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:39.971260",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 781,
+            "Fwd Packet Length Max": 66,
+            "Subflow Fwd Bytes": 66,
+            "Bwd Packet Length Max": 66,
+            "Fwd Packet Length Mean": 66,
+            "Avg Fwd Segment Size": 66,
+            "Avg Bwd Segment Size": 66,
+            "Total Length of Fwd Packets": 66,
+            "Destination Port": 38906,
+            "source_ip": "74.125.138.94",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:39.971674",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 781,
+            "Fwd Packet Length Max": 2866,
+            "Subflow Fwd Bytes": 2866,
+            "Bwd Packet Length Max": 2866,
+            "Fwd Packet Length Mean": 2866,
+            "Avg Fwd Segment Size": 2866,
+            "Avg Bwd Segment Size": 2866,
+            "Total Length of Fwd Packets": 2866,
+            "Destination Port": 38906,
+            "source_ip": "74.125.138.94",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:39.972123",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 781,
+            "Fwd Packet Length Max": 2866,
+            "Subflow Fwd Bytes": 2866,
+            "Bwd Packet Length Max": 2866,
+            "Fwd Packet Length Mean": 2866,
+            "Avg Fwd Segment Size": 2866,
+            "Avg Bwd Segment Size": 2866,
+            "Total Length of Fwd Packets": 2866,
+            "Destination Port": 38906,
+            "source_ip": "74.125.138.94",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:39.972531",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 781,
+            "Fwd Packet Length Max": 2866,
+            "Subflow Fwd Bytes": 2866,
+            "Bwd Packet Length Max": 2866,
+            "Fwd Packet Length Mean": 2866,
+            "Avg Fwd Segment Size": 2866,
+            "Avg Bwd Segment Size": 2866,
+            "Total Length of Fwd Packets": 2866,
+            "Destination Port": 38906,
+            "source_ip": "74.125.138.94",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:39.972963",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 65535,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 38922,
+            "source_ip": "74.125.138.94",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:39.973387",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 481,
+            "Fwd Packet Length Max": 66,
+            "Subflow Fwd Bytes": 66,
+            "Bwd Packet Length Max": 66,
+            "Fwd Packet Length Mean": 66,
+            "Avg Fwd Segment Size": 66,
+            "Avg Bwd Segment Size": 66,
+            "Total Length of Fwd Packets": 66,
+            "Destination Port": 443,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "74.125.138.94",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:39.973823",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 502,
+            "Fwd Packet Length Max": 66,
+            "Subflow Fwd Bytes": 66,
+            "Bwd Packet Length Max": 66,
+            "Fwd Packet Length Mean": 66,
+            "Avg Fwd Segment Size": 66,
+            "Avg Bwd Segment Size": 66,
+            "Total Length of Fwd Packets": 66,
+            "Destination Port": 443,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "74.125.138.94",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:51.891469",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 21120,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 48674,
+            "source_ip": "34.139.124.58",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:51.891951",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 21120,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 48680,
+            "source_ip": "34.139.124.58",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:51.892321",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 21120,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 48660,
+            "source_ip": "34.139.124.58",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:51.892660",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 21120,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 48670,
+            "source_ip": "34.139.124.58",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:51.893021",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 21120,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 48694,
+            "source_ip": "34.139.124.58",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:51.893347",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 21120,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 48688,
+            "source_ip": "34.139.124.58",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:51.893672",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:51.894031",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:51.894338",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:34:51.894640",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:43:51.847317",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 21120,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 46422,
+            "source_ip": "34.139.124.58",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:43:51.847806",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 21120,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 46432,
+            "source_ip": "34.139.124.58",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:43:51.848186",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 21120,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 46444,
+            "source_ip": "34.139.124.58",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:43:51.848532",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 21120,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 46430,
+            "source_ip": "34.139.124.58",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:43:51.848898",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 21120,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 46434,
+            "source_ip": "34.139.124.58",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:43:51.849244",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 21120,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 46446,
+            "source_ip": "34.139.124.58",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:43:51.849567",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:43:51.849925",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:43:51.850233",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:43:51.850535",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:01.057443",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 92,
+            "Subflow Fwd Bytes": 92,
+            "Bwd Packet Length Max": 92,
+            "Fwd Packet Length Mean": 92,
+            "Avg Fwd Segment Size": 92,
+            "Avg Bwd Segment Size": 92,
+            "Total Length of Fwd Packets": 92,
+            "Destination Port": 137,
+            "source_ip": "11.12.7.10",
+            "destination_ip": "255.255.255.255",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:01.057897",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 92,
+            "Subflow Fwd Bytes": 92,
+            "Bwd Packet Length Max": 92,
+            "Fwd Packet Length Mean": 92,
+            "Avg Fwd Segment Size": 92,
+            "Avg Bwd Segment Size": 92,
+            "Total Length of Fwd Packets": 92,
+            "Destination Port": 137,
+            "source_ip": "11.12.4.204",
+            "destination_ip": "11.12.31.255",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:01.058256",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 92,
+            "Subflow Fwd Bytes": 92,
+            "Bwd Packet Length Max": 92,
+            "Fwd Packet Length Mean": 92,
+            "Avg Fwd Segment Size": 92,
+            "Avg Bwd Segment Size": 92,
+            "Total Length of Fwd Packets": 92,
+            "Destination Port": 137,
+            "source_ip": "11.12.4.204",
+            "destination_ip": "11.12.31.255",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:01.058593",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 60,
+            "Subflow Fwd Bytes": 60,
+            "Bwd Packet Length Max": 60,
+            "Fwd Packet Length Mean": 60,
+            "Avg Fwd Segment Size": 60,
+            "Avg Bwd Segment Size": 60,
+            "Total Length of Fwd Packets": 60,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:01.058938",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:01.059249",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:01.059555",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:01.059887",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 60,
+            "Subflow Fwd Bytes": 60,
+            "Bwd Packet Length Max": 60,
+            "Fwd Packet Length Mean": 60,
+            "Avg Fwd Segment Size": 60,
+            "Avg Bwd Segment Size": 60,
+            "Total Length of Fwd Packets": 60,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:01.060195",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:01.060499",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:09.420506",
+        "detection_type": "IDS",
+        "threat_level": "low",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Allow"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:09.421217",
+        "detection_type": "IDS",
+        "threat_level": "low",
+        "results": {
+            "dur": 1,
+            "proto": 17,
+            "service": 17,
+            "state": 2,
+            "sbytes": 1250,
+            "dbytes": 42,
+            "rate": 1,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "172.217.138.40",
+            "Decision": "Allow"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:09.421635",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 6,
+            "service": 6,
+            "state": 1,
+            "sbytes": 2022,
+            "dbytes": 66,
+            "rate": 1,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "172.217.138.40",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:09.421988",
+        "detection_type": "IDS",
+        "threat_level": "low",
+        "results": {
+            "dur": 1,
+            "proto": 17,
+            "service": 17,
+            "state": 2,
+            "sbytes": 50,
+            "dbytes": 42,
+            "rate": 1,
+            "source_ip": "11.12.7.109",
+            "destination_ip": "255.255.255.255",
+            "Decision": "Allow"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:09.422275",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 6,
+            "service": 6,
+            "state": 1,
+            "sbytes": 1949,
+            "dbytes": 66,
+            "rate": 1,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "172.217.138.40",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:09.422553",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 6,
+            "service": 6,
+            "state": 1,
+            "sbytes": 0,
+            "dbytes": 66,
+            "rate": 1,
+            "source_ip": "172.217.138.40",
+            "destination_ip": "11.12.23.247",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:09.422923",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 6,
+            "service": 6,
+            "state": 1,
+            "sbytes": 0,
+            "dbytes": 66,
+            "rate": 1,
+            "source_ip": "172.217.138.40",
+            "destination_ip": "11.12.23.247",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:09.423344",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 6,
+            "service": 6,
+            "state": 1,
+            "sbytes": 975,
+            "dbytes": 66,
+            "rate": 1,
+            "source_ip": "172.217.138.40",
+            "destination_ip": "11.12.23.247",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:09.423788",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 6,
+            "service": 6,
+            "state": 1,
+            "sbytes": 25,
+            "dbytes": 66,
+            "rate": 1,
+            "source_ip": "172.217.138.40",
+            "destination_ip": "11.12.23.247",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:09.424204",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 6,
+            "service": 6,
+            "state": 1,
+            "sbytes": 490,
+            "dbytes": 66,
+            "rate": 1,
+            "source_ip": "172.217.138.40",
+            "destination_ip": "11.12.23.247",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:54.921519",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:54.921961",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 216,
+            "Subflow Fwd Bytes": 216,
+            "Bwd Packet Length Max": 216,
+            "Fwd Packet Length Mean": 216,
+            "Avg Fwd Segment Size": 216,
+            "Avg Bwd Segment Size": 216,
+            "Total Length of Fwd Packets": 216,
+            "Destination Port": 5353,
+            "source_ip": "11.12.3.114",
+            "destination_ip": "224.0.0.251",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:54.922316",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 87,
+            "Subflow Fwd Bytes": 87,
+            "Bwd Packet Length Max": 87,
+            "Fwd Packet Length Mean": 87,
+            "Avg Fwd Segment Size": 87,
+            "Avg Bwd Segment Size": 87,
+            "Total Length of Fwd Packets": 87,
+            "Destination Port": 5353,
+            "source_ip": "11.12.3.114",
+            "destination_ip": "224.0.0.251",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:54.922660",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:54.923051",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:54.923367",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:54.923675",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:54.924009",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 87,
+            "Subflow Fwd Bytes": 87,
+            "Bwd Packet Length Max": 87,
+            "Fwd Packet Length Mean": 87,
+            "Avg Fwd Segment Size": 87,
+            "Avg Bwd Segment Size": 87,
+            "Total Length of Fwd Packets": 87,
+            "Destination Port": 5353,
+            "source_ip": "11.12.3.114",
+            "destination_ip": "224.0.0.251",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:54.924327",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:44:54.924626",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:25.806393",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 64240,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 443,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "34.139.124.58",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:25.806852",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 64240,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 443,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "34.139.124.58",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:25.807207",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 64240,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 443,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "34.139.124.58",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:25.807542",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 64240,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 443,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "34.139.124.58",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:25.807911",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 64240,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 443,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "34.139.124.58",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:25.808234",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 64240,
+            "Fwd Packet Length Max": 74,
+            "Subflow Fwd Bytes": 74,
+            "Bwd Packet Length Max": 74,
+            "Fwd Packet Length Mean": 74,
+            "Avg Fwd Segment Size": 74,
+            "Avg Bwd Segment Size": 74,
+            "Total Length of Fwd Packets": 74,
+            "Destination Port": 443,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "34.139.124.58",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:25.808551",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:25.808881",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:25.809188",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:25.809486",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 60,
+            "Subflow Fwd Bytes": 60,
+            "Bwd Packet Length Max": 60,
+            "Fwd Packet Length Mean": 60,
+            "Avg Fwd Segment Size": 60,
+            "Avg Bwd Segment Size": 60,
+            "Total Length of Fwd Packets": 60,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:46.885048",
+        "detection_type": "IDS",
+        "threat_level": "low",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Allow"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:46.885400",
+        "detection_type": "IDS",
+        "threat_level": "low",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Allow"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:46.885641",
+        "detection_type": "IDS",
+        "threat_level": "low",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Allow"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:46.885890",
+        "detection_type": "IDS",
+        "threat_level": "low",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Allow"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:46.886116",
+        "detection_type": "IDS",
+        "threat_level": "low",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Allow"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:46.886334",
+        "detection_type": "IDS",
+        "threat_level": "low",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Allow"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:46.886570",
+        "detection_type": "IDS",
+        "threat_level": "low",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Allow"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:46.886822",
+        "detection_type": "IDS",
+        "threat_level": "low",
+        "results": {
+            "dur": 0,
+            "proto": 0,
+            "service": 0,
+            "state": 0,
+            "sbytes": 0,
+            "dbytes": 0,
+            "rate": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Decision": "Allow"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:46.887053",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 17,
+            "service": 17,
+            "state": 2,
+            "sbytes": 246,
+            "dbytes": 42,
+            "rate": 1,
+            "source_ip": "11.12.3.0",
+            "destination_ip": "224.0.0.251",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:51:46.887289",
+        "detection_type": "IDS",
+        "threat_level": "high",
+        "results": {
+            "dur": 1,
+            "proto": 6,
+            "service": 6,
+            "state": 1,
+            "sbytes": 27,
+            "dbytes": 66,
+            "rate": 1,
+            "source_ip": "104.18.27.48",
+            "destination_ip": "11.12.23.247",
+            "Decision": "Block"
+        },
+        "model_type": "IDS"
+    },
+    {
+        "timestamp": "2025-04-01T00:52:56.886583",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:52:56.887025",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:52:56.887366",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:52:56.887703",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 87,
+            "Subflow Fwd Bytes": 87,
+            "Bwd Packet Length Max": 87,
+            "Fwd Packet Length Mean": 87,
+            "Avg Fwd Segment Size": 87,
+            "Avg Bwd Segment Size": 87,
+            "Total Length of Fwd Packets": 87,
+            "Destination Port": 5353,
+            "source_ip": "11.12.3.208",
+            "destination_ip": "224.0.0.251",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:52:56.888031",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 56,
+            "Subflow Fwd Bytes": 56,
+            "Bwd Packet Length Max": 56,
+            "Fwd Packet Length Mean": 56,
+            "Avg Fwd Segment Size": 56,
+            "Avg Bwd Segment Size": 56,
+            "Total Length of Fwd Packets": 56,
+            "Destination Port": 0,
+            "source_ip": NaN,
+            "destination_ip": NaN,
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:52:56.888337",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 418,
+            "Fwd Packet Length Max": 136,
+            "Subflow Fwd Bytes": 136,
+            "Bwd Packet Length Max": 136,
+            "Fwd Packet Length Mean": 136,
+            "Avg Fwd Segment Size": 136,
+            "Avg Bwd Segment Size": 136,
+            "Total Length of Fwd Packets": 136,
+            "Destination Port": 5222,
+            "source_ip": "11.12.23.247",
+            "destination_ip": "157.240.192.52",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:52:56.888654",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 86,
+            "Subflow Fwd Bytes": 86,
+            "Bwd Packet Length Max": 86,
+            "Fwd Packet Length Mean": 86,
+            "Avg Fwd Segment Size": 86,
+            "Avg Bwd Segment Size": 86,
+            "Total Length of Fwd Packets": 86,
+            "Destination Port": 57621,
+            "source_ip": "11.12.18.234",
+            "destination_ip": "11.12.31.255",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:52:56.889000",
+        "detection_type": "DDoS",
+        "threat_level": "low",
+        "results": {
+            "Init_Win_bytes_forward": 310,
+            "Fwd Packet Length Max": 66,
+            "Subflow Fwd Bytes": 66,
+            "Bwd Packet Length Max": 66,
+            "Fwd Packet Length Mean": 66,
+            "Avg Fwd Segment Size": 66,
+            "Avg Bwd Segment Size": 66,
+            "Total Length of Fwd Packets": 66,
+            "Destination Port": 47816,
+            "source_ip": "157.240.192.52",
+            "destination_ip": "11.12.23.247",
+            "Prediction": "Normal"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:52:56.889312",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 278,
+            "Subflow Fwd Bytes": 278,
+            "Bwd Packet Length Max": 278,
+            "Fwd Packet Length Mean": 278,
+            "Avg Fwd Segment Size": 278,
+            "Avg Bwd Segment Size": 278,
+            "Total Length of Fwd Packets": 278,
+            "Destination Port": 5353,
+            "source_ip": "11.12.3.92",
+            "destination_ip": "224.0.0.251",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    },
+    {
+        "timestamp": "2025-04-01T00:52:56.889614",
+        "detection_type": "DDoS",
+        "threat_level": "high",
+        "results": {
+            "Init_Win_bytes_forward": 0,
+            "Fwd Packet Length Max": 93,
+            "Subflow Fwd Bytes": 93,
+            "Bwd Packet Length Max": 93,
+            "Fwd Packet Length Mean": 93,
+            "Avg Fwd Segment Size": 93,
+            "Avg Bwd Segment Size": 93,
+            "Total Length of Fwd Packets": 93,
+            "Destination Port": 5353,
+            "source_ip": "11.12.3.92",
+            "destination_ip": "224.0.0.251",
+            "Prediction": "Threat"
+        },
+        "model_type": "DDoS"
+    }
+]
